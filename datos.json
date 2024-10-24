@@ -5,7 +5,7 @@
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/45574119-6329-4260-af71-00a2ec04d861",
-        "fotos": ["credencial-1.jpg","credencial-2.jpg","credencial-3.jpg"],
+        "fotos": ["credencial-1.jpg", "credencial-2.jpg", "credencial-3.jpg"],
         "github": "https://github.com/benjamin-rdz"
     },
     {
@@ -23,7 +23,7 @@
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/b6b000be-67bc-4d7a-a55e-79c859633857",
-        "fotos": ["editorial-t8-1.jpg","editorial-t8-2.jpg","editorial-t8-3.jpg"],
+        "fotos": ["editorial-t8-1.jpg", "editorial-t8-2.jpg", "editorial-t8-3.jpg"],
         "github": "https://github.com/benjamin-rdz"
     },
     {
@@ -32,7 +32,7 @@
         "fecha": "2022",
         "signo": "gráfico y comunicación",
         "foto": "https://github.com/user-attachments/assets/5e7858e6-50ef-4395-90c8-3adf7f281266",
-        "fotos": ["fanzine-ilustrado-1.jpg","fanzine-ilustrado-2.jpg","fanzine-ilustrado-3.jpg"],
+        "fotos": ["fanzine-ilustrado-1.jpg", "fanzine-ilustrado-2.jpg", "fanzine-ilustrado-3.jpg"],
         "github": "https://github.com/benjamin-rdz"
     },
     {
@@ -41,7 +41,7 @@
         "fecha": "2023",
         "signo": "vestuario",
         "foto": "https://github.com/user-attachments/assets/05b12403-f124-4b2b-8a8a-dacc0cd42afb",
-        "fotos": ["odios-colegiales-1.jgp","odios-colegiales-2.jgp","odios-colegiales-3.jgp"],
+        "fotos": ["odios-colegiales-1.jpg", "odios-colegiales-2.jpg", "odios-colegiales-3.jpg"],
         "github": "https://github.com/benjamin-rdz"
     },
     {
@@ -50,16 +50,7 @@
         "fecha": "2023",
         "signo": "grafico y comunicacion",
         "foto": "https://github.com/user-attachments/assets/f930eba8-80f8-417c-af63-809d7c889d4b",
-        "fotos": ["sanfic19-1.jpg","sanfic19-2.jpg","sanfic19-3.png"],
-        "github": "https://github.com/benjamin-rdz"
-    },
-    {
-        "nombre": "5 STAGES OF GRIEF",
-        "descripcion": "Fanzine plegable impreso de ilustraciones digitales hechas con técnica de mano alzada. Este fanzine fue inspirado en las 5 etapas del duelo de un corazón roto, en donde se hace un recorrido por cada etapa mediante canciones que fueron seleccionadas de forma personal para representar el sentir de cada una.",
-        "fecha": "2022",
-        "signo": "gráfico y comunicación",
-        "foto": "https://github.com/user-attachments/assets/5e7858e6-50ef-4395-90c8-3adf7f281266",
-        "fotos": ["fanzine-ilustrado-1.jpg","fanzine-ilustrado-2.jpg","fanzine-ilustrado-3.jpg"],
+        "fotos": ["sanfic19-1.jpg", "sanfic19-2.jpg", "sanfic19-3.png"],
         "github": "https://github.com/benjamin-rdz"
     },
     {
@@ -68,7 +59,7 @@
         "fecha": "2023",
         "signo": "vestuario",
         "foto": "https://github.com/user-attachments/assets/42b22458-2c0f-4231-942d-e085e2b44fc3",
-        "fotos":["synth-1.jpg","synth-2.jpg","synth-3.jpg"],
+        "fotos": ["synth-1.jpg", "synth-2.jpg", "synth-3.jpg"],
         "github": "https://github.com/benjamin-rdz"
-    },
+    }
 ]
